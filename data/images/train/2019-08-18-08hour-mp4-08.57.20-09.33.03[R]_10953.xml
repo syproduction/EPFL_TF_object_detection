@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>2019-08-18-08hour-mp4-08.57.20-09.33.03[R]_10953.jpg</filename>
+	<path>/content/object_detection_demo/test/2019-08-18-08hour-mp4-08.57.20-09.33.03[R]_10953.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pigeon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1929</xmin>
+			<ymin>122</ymin>
+			<xmax>2037</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

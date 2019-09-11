@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2019-08-19-13hour-mp4-13.54.35-14.30.20[R]_35385.jpg</filename>
+	<path>/content/object_detection_demo/data/images/train/2019-08-19-13hour-mp4-13.54.35-14.30.20[R]_35385.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pigeon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1889</xmin>
+			<ymin>712</ymin>
+			<xmax>2108</xmax>
+			<ymax>949</ymax>
+		</bndbox>
+	</object>
+</annotation>
