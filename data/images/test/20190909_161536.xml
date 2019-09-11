@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotated</folder>
+	<filename>20190909_161536.jpg</filename>
+	<path>/home/lis-scarecrow/Desktop/annotated/20190909_161536.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pigeon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3242</xmin>
+			<ymin>728</ymin>
+			<xmax>3507</xmax>
+			<ymax>907</ymax>
+		</bndbox>
+	</object>
+</annotation>
