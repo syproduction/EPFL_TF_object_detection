@@ -19,13 +19,15 @@ import sys
 import pandas as pd
 import tensorflow as tf
 
+from absl import app
+from absl import flags
+
 sys.path.append("../../models/research")
 
 from PIL import Image
 from object_detection.utils import dataset_util
 from collections import namedtuple
 
-flags = tf.app.flags
 flags.DEFINE_string("csv_input", "", "Path to the CSV input")
 flags.DEFINE_string("output_path", "", "Path to output TFRecord")
 flags.DEFINE_string(
